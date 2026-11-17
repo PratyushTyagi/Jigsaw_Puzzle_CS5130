@@ -1,0 +1,20 @@
+{
+ "R": 4,
+ "C": 4,
+ "piece_px": 64,
+ "seed": 5,
+ "n_total": 16,
+ "blur": 0.0,
+ "shadow": false,
+ "lighting": false,
+ "noise": 1.0,
+ "background": [
+  70,
+  90,
+  140
+ ],
+ "source": "coffee.png",
+ "split": "test",
+ "variant": "clean",
+ "texture": 62.80818176269531
+}
