@@ -1,0 +1,5 @@
+numpy
+opencv-python
+scipy
+scikit-image
+# Person 4's learned scorer also needs: pip install -r requirements-learned.txt

@@ -1,0 +1,4 @@
+# Only for Person 4's learned scorer (person4_anneal_learned.py)
+-r requirements.txt
+torch
+torchvision

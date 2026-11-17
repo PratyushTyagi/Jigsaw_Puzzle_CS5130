@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Generated data and outputs
+dataset/
+source_images/
+results/
+out/
+learned_head.pt
+
+# Report and slides (not code)
+*.pdf
+*.pptx
+
+# macOS
+.DS_Store
