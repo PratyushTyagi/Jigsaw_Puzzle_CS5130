@@ -1,0 +1,20 @@
+{
+ "R": 4,
+ "C": 4,
+ "piece_px": 64,
+ "seed": 2,
+ "n_total": 16,
+ "blur": 0.0,
+ "shadow": false,
+ "lighting": false,
+ "noise": 1.0,
+ "background": [
+  70,
+  90,
+  140
+ ],
+ "source": "astronaut.png",
+ "split": "test",
+ "variant": "clean",
+ "texture": 93.11434173583984
+}
