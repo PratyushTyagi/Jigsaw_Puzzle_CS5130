@@ -21,7 +21,7 @@ SEARCHES = {"brute": brute_force, "greedy_reading": greedy_reading, "greedy_conf
             "csp": csp, "anneal": anneal}
 SCORERS = {"color": color_scorer, "gradient": gradient_scorer, "shape": shape_scorer, "learned": learned_scorer}
 
-BEST_SCORER = "color"     # update after E2 shows which scorer wins
+BEST_SCORER = "gradient"     # update after E2 shows which scorer wins
 ALL_SIZES = ["3x3", "4x4", "6x6", "10x10", "15x20"]
 EXPERIMENTS = {
     "E1": dict(searches=list(SEARCHES), scorers=[BEST_SCORER], sizes=["3x3", "4x4", "6x6"]),
